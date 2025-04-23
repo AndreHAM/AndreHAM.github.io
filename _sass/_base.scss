@@ -693,6 +693,12 @@ footer.sticky-bottom {
 }
 
 // Publications
+.section-divider {
+    border: none;
+    height: 1px;
+    background-color: $grey-color-light; // or any color
+    margin: 3rem 0;
+}
 
 .publications {
   margin-top: 2rem;
@@ -706,6 +712,7 @@ footer.sticky-bottom {
   }
 
   h2 {
+    color: var(--global-theme-color);
     margin-bottom: 1rem;
 
     span {
@@ -1416,12 +1423,12 @@ figure.cover {
   a.cover-link:hover {
     color: #23212d !important;
   }
+}
 
-  .custom-img-size {
+.custom-img-size {
     max-width: 350px; /* Adjust as needed */
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto; /* Optional: Center the image */
-  }
 }
