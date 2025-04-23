@@ -27,8 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Researcher in the <span style="color: #6f42c1;">"New Quantum Resources and Thermodynamics Group"</span> at the [International Centre for Theory of Quantum Technologies (ICTQT)](https://ictqt.ug.edu.pl), [University of Gdańsk](https://en.ug.edu.pl), where I work under the supervision of <span style="color: #6f42c1;">Prof. Dr. Michał Horodecki</span>. Previously, I completed my Ph.D. in quantum thermodynamics from the [University of São Paulo](https://www5.usp.br/english/institutional/), Brazil. You can find my thesis [here](https://arxiv.org/abs/2211.07439).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am particularly passionate about:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+     ● Quantum Thermodynamics
+     ● Open Quantum Systems
+     ● Quantum Information
+     ● Stochastic Thermodynamics
+
+My research explores the interplay between quantum information, thermodynamics, and open systems, aiming to uncover new fundamental limits and applications for emerging quantum technologies 2.0.
+
+For details on my work, see my [publications page](/al-folio/publications/). I’m always open to discussions and collaborations—feel free to reach out!
+
+Before moving to quantum sciences, I have worked with MEMS (micro-electromechanical systems) and neuroengineering. You can find my Msc Dissertation [here](https://repositorio.unicamp.br/Acervo/Detalhe/965393) (in portuguese).
+
