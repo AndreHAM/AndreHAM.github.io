@@ -1416,4 +1416,12 @@ figure.cover {
   a.cover-link:hover {
     color: #23212d !important;
   }
+
+  .custom-img-size {
+    max-width: 350px; /* Adjust as needed */
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; /* Optional: Center the image */
+  }
 }
