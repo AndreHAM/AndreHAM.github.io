@@ -274,8 +274,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Hernandes Alves Malavazi]
-  first_name: [André]
+  last_name: [Malavazi]
+  first_name: [André H. A.]
 
   style: apa
   locale: en
