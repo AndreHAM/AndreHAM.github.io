@@ -38,6 +38,6 @@ I am particularly passionate about:
 
 My research explores the interplay between quantum information, thermodynamics, and open systems, aiming to uncover new fundamental limits and applications for emerging quantum technologies 2.0.
 
-For details on my work, see my [publications page](https://andreham.github.io/publications/). I’m always open to discussions and collaborations—feel free to reach out!
+For details on my work, see my [publications page](/publications/). I’m always open to discussions and collaborations—feel free to reach out!
 
 Before moving to quantum sciences, I have worked with MEMS (micro-electromechanical systems) and neuroengineering. You can find my Msc Dissertation [here](https://repositorio.unicamp.br/Acervo/Detalhe/965393) (in portuguese).
