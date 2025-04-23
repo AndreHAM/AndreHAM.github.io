@@ -9,8 +9,6 @@ display_categories:
 horizontal: false
 ---
 
-<h2><span style="color: #6f42c1;">Quantum thermal devices</span></h2>
-
 Under construction
 
 <div class="row justify-content-sm-center">
@@ -21,6 +19,8 @@ Under construction
 <div class="caption">
     Research direction
 </div>
+
+<h2><span style="color: #6f42c1;">Quantum thermal devices</span></h2>
 
 
 
