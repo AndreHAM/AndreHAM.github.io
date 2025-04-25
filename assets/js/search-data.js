@@ -56,7 +56,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/andre-malavazi-280780213/", "_blank");
+          window.open("https://www.linkedin.com/in/www.linkedin.com/in/andré-malavazi-280780213", "_blank");
         },
       },{
         id: 'social-researchgate',
