@@ -29,7 +29,7 @@
       "url": "https://ictqt.ug.edu.pl",
       "startDate": "2022",
       "endDate": "",
-      "summary": "",
+      "summary": "Research on open quantum systems and quantum thermodynamics",
       "highlights": [""]
     }
   ],
@@ -52,6 +52,17 @@
       "url": "",
       "area": "Quantum Thermodynamics",
       "studyType": "PhD",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "University of São Paulo",
+      "location": "São Paulo, Brazil",
+      "url": "",
+      "area": "Quantum Thermodynamics",
+      "studyType": "MsC",
       "startDate": "",
       "endDate": "",
       "score": "",
@@ -175,6 +186,11 @@
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
