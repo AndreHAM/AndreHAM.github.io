@@ -23,6 +23,23 @@ Under construction
 <h2><span style="color: #6f42c1;">Quantum thermal devices</span></h2>
 
 
+<div class="row">
+    <!-- Text column (left) -->
+    <div class="col-sm-8">
+        <p>Your text goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+        <!-- Image column (right) -->
+    <div class="col-sm-4">
+        {% include figure.liquid 
+           path="assets/img/transistor.png" 
+           class="img-fluid rounded custom-img-size" 
+           alt="Quantum devices" %}
+        <div class="caption">Quantum devices</div>
+    </div>
+</div>
+
+
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
