@@ -26,8 +26,19 @@ Under construction
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/qbat.png" class="img-fluid rounded custom-img-size" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/QBattery.png" class="img-fluid rounded custom-img-size" %}
     </div>
+</div>
+<div class="caption">
+    Quantum devices
+</div>
+
+
+
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/transistor.png" class="img-fluid rounded custom-img-size" %}
     </div>
