@@ -106,7 +106,7 @@ to develop strategies to control energy flow in quantum systems and novel device
            path="assets/img/energyAdd.png" 
            class="img-fluid rounded z-depth-1 custom-img-size" 
            alt="Quantum devices" %}
-        <div class="caption"><h2><span style="color: #6f42c1;">Local Effective Hamiltonian and Energy additivity</span></div>
+        <div class="caption"><span style="color: #6f42c1;">Local Effective Hamiltonian and Energy additivity</span></div>
     </div>
 </div>
 
