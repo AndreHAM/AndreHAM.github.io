@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<div class="text-justify">
 I am a Postdoctoral Researcher in the <span style="color: #6f42c1;">"New Quantum Resources and Thermodynamics Group"</span> at the [International Centre for Theory of Quantum Technologies (ICTQT)](https://ictqt.ug.edu.pl), [University of Gdańsk](https://en.ug.edu.pl), where I work under the supervision of <span style="color: #6f42c1;">Prof. Dr. Michał Horodecki</span>. Previously, I completed my Ph.D. in quantum thermodynamics from the [University of São Paulo](https://www5.usp.br/english/institutional/), Brazil, under the supervision of <span style="color: #6f42c1;">Prof. Dr. Frederico Brito</span>. You can find my thesis [here](https://arxiv.org/abs/2211.07439).
+<div>
 
 I am particularly passionate about:
 
