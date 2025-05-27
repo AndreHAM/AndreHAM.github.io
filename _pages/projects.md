@@ -26,7 +26,7 @@ horizontal: false
            path="assets/img/venn.png" 
            class="img-fluid rounded custom-img-size" 
            alt="Quantum devices" %}
-        <div class="caption">Research direction</div>
+        <div class="caption"><span style="color: #6f42c1;">Research direction</span></div>
     </div>
 </div>
 At the nanoscale, managing heat flows—<span style="color: #6f42c1;">thermotronics</span>—mirrors electronics, enabling thermal logic and energy-efficient computing. Understanding these quantum-thermodynamic processes is key to optimizing energy use and minimizing waste heat.
