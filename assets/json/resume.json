@@ -29,7 +29,7 @@
       "url": "https://ictqt.ug.edu.pl",
       "startDate": "2022",
       "endDate": "",
-      "summary": "Research on open quantum systems and quantum thermodynamics",
+      "summary": "",
       "highlights": ["Research on open quantum systems and quantum thermodynamics"]
     }
   ],
@@ -48,9 +48,9 @@
   "education": [
     {
       "institution": "University of Campinas (UNICAMP)",
-      "location": "Campinas - São Paulo, Brazil",
+      "location": "Campinas-SP, Brazil",
       "url": "https://unicamp.br/en/",
-      "area": "MEMS and Neuroengineering",
+      "area": "",
       "studyType": "Bachelor in Physics and Biomedical Physics",
       "startDate": "",
       "endDate": "",
@@ -59,7 +59,7 @@
     },
     {
       "institution": "University of Campinas (UNICAMP)",
-      "location": "Campinas - São Paulo, Brazil",
+      "location": "Campinas-SP, Brazil",
       "url": "https://unicamp.br/en/",
       "area": "MEMS and Neuroengineering",
       "studyType": "Masters in Physics",
@@ -70,14 +70,14 @@
     },
     {
       "institution": "University of São Paulo (USP)",
-      "location": "São Carlos - São Paulo, Brazil",
+      "location": "São Carlos-SP, Brazil",
       "url": "https://www5.usp.br/english/institutional/",
       "area": "Quantum Thermodynamics",
       "studyType": "PhD in Physics",
       "startDate": "",
       "endDate": "2022",
       "score": "",
-      "courses": [""]
+      "courses": ""
     }
   ],
   "awards": [
@@ -201,7 +201,7 @@
     },
     {
       "language": "Spanish",
-      "fluency": "Basic",
+      "fluency": "Basics",
       "icon": ""
     }
   ],
