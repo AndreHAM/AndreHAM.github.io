@@ -101,7 +101,7 @@ to develop strategies to control energy flow in quantum systems and novel device
          </div>
     </div>
         <!-- Image column (right) -->
-    <div class="col-sm-4">
+    <div class="col-sm-5">
         {% include figure.liquid 
            path="assets/img/energyAdd.png" 
            class="img-fluid rounded custom-img-size" 
