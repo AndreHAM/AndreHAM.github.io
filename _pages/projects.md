@@ -29,13 +29,13 @@ horizontal: false
         <div class="caption">Research direction</div>
     </div>
 </div>
-    At the nanoscale, managing heat flows—<span style="color: #6f42c1;">thermotronics</span>—mirrors electronics, enabling thermal logic and energy-efficient computing. Understanding these quantum-thermodynamic processes is key to optimizing energy use and minimizing waste heat.
-    My research sits at the intersection of
+At the nanoscale, managing heat flows—<span style="color: #6f42c1;">thermotronics</span>—mirrors electronics, enabling thermal logic and energy-efficient computing. Understanding these quantum-thermodynamic processes is key to optimizing energy use and minimizing waste heat.
+My research sits at the intersection of
          ● Quantum Thermodynamics
          ● Open Quantum Systems
          ● Quantum Information
          ● Quantum Thermotronics
-    to develop strategies to control energy flow in quantum systems and novel devices.
+to develop strategies to control energy flow in quantum systems and novel devices.
 
 
 <h2><span style="color: #6f42c1;">Quantum thermal devices</span></h2>
@@ -87,3 +87,11 @@ horizontal: false
 
 
 <h2><span style="color: #6f42c1;">Foundations of quantum thermodynamics</span></h2>
+
+<div class="text-justify">
+I am deeply interested in the fundamental aspects of quantum thermodynamics, particularly in establishing general quantum counterparts of classical thermodynamic quantities such as work, heat, and entropy. Current definitions are typically limited to specific scenarios constrained by weak-coupling and Markovian assumptions—while thermodynamically relevant, these restrictions limit their applicability to more general cases.
+</div>
+
+<div class="text-justify">
+To address this, we propose a universal definition of internal energy applicable to arbitrary quantum systems, including strongly coupled and fully autonomous scenarios. Remarkably, by starting from an isolated system, this approach enables the identification of time-dependent local operators (interpreted as <span style="color: #6f42c1;">local effective Hamiltonians</span>) whose expectation values sum to the total internal energy. This formulation naturally satisfies <span style="color: #6f42c1;">energy additivity</span> while maintaining broad applicability.
+</div>
