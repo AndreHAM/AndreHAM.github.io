@@ -47,24 +47,35 @@
   ],
   "education": [
     {
-      "institution": "University of São Paulo",
-      "location": "São Paulo, Brazil",
-      "url": "",
-      "area": "Quantum Thermodynamics",
-      "studyType": "PhD",
+      "institution": "University of Campinas (UNICAMP)",
+      "location": "Campinas - São Paulo, Brazil",
+      "url": "https://unicamp.br/en/",
+      "area": "MEMS and Neuroengineering",
+      "studyType": "Bachelor in Physics and Biomedical Physics",
       "startDate": "",
       "endDate": "",
       "score": "",
       "courses": [""]
     },
     {
-      "institution": "University of São Paulo",
-      "location": "São Paulo, Brazil",
-      "url": "",
-      "area": "Quantum Thermodynamics",
-      "studyType": "MsC",
+      "institution": "University of Campinas (UNICAMP)",
+      "location": "Campinas - São Paulo, Brazil",
+      "url": "https://unicamp.br/en/",
+      "area": "MEMS and Neuroengineering",
+      "studyType": "Masters in Physics",
       "startDate": "",
       "endDate": "",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "University of São Paulo (USP)",
+      "location": "São Carlos - São Paulo, Brazil",
+      "url": "https://www5.usp.br/english/institutional/",
+      "area": "Quantum Thermodynamics",
+      "studyType": "PhD in Physics",
+      "startDate": "",
+      "endDate": "2022",
       "score": "",
       "courses": [""]
     }
