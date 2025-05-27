@@ -15,7 +15,7 @@ horizontal: false
     <!-- Text column (left) -->
     <div class="col-sm-7">
         <div class="text-justify">
-            <p>Modern breakthroughs in <span style="color: #6f42c1;">quantum information theory</span> and <span style="color: #6f42c1;">thermodynamics</span>, combined with advances in nanoscale fabrication and quantum control, are driving the next wave of <span style="color: #6f42c1;">Quantum Technologies 2.0</span>. These next-generation devices exploit quantum phenomena to revolutionize computing, communication, sensing, and simulation—raising crucial question: Do quantum effects play any role in thermodynamics? If so, can we use it?
+            <p>Modern breakthroughs in <span style="color: #6f42c1;">quantum information theory</span> and <span style="color: #6f42c1;">thermodynamics</span>, combined with advances in nanoscale fabrication and quantum control, are driving the next wave of <span style="color: #6f42c1;">Quantum Technologies 2.0</span>. These next-generation devices exploit quantum phenomena to revolutionize computing, communication, sensing, and simulation—raising crucial questions: Do quantum effects play any role in thermodynamics? If so, can we use it?
         This challenge has given rise to <span style="color: #6f42c1;">quantum thermodynamics</span>, providing the tools to explore how quantum principles can enhance energy control in quantum counterparts of thermal devices.
             </p>
          </div>
@@ -96,7 +96,7 @@ to develop strategies to control energy flow in quantum systems and novel device
     <!-- Text column (left) -->
     <div class="col-sm-6">
         <div class="text-justify">
-            <p>I am deeply interested in the fundamental aspects of quantum thermodynamics, particularly in establishing general quantum counterparts of classical thermodynamic quantities such as work, heat, and entropy. Current definitions are typically limited to specific scenarios constrained by weak-coupling and Markovian assumptions—while thermodynamically relevant, these restrictions limit their applicability to more general cases.</p>
+            <p>I am also deeply interested in the fundamental aspects of quantum thermodynamics, particularly in establishing general quantum counterparts of classical thermodynamic quantities such as work, heat, and entropy. Current definitions are typically limited to specific scenarios constrained by weak-coupling and Markovian assumptions—while thermodynamically relevant, these restrictions limit their applicability to more general cases.</p>
             <p>To address this, we propose a universal definition of internal energy applicable to arbitrary quantum systems, including strongly coupled and fully autonomous scenarios. Remarkably, by starting from an isolated system, this approach enables the identification of time-dependent local operators (interpreted as <span style="color: #6f42c1;">Local Effective Hamiltonians</span>) whose expectation values sum to the total internal energy. This formulation naturally satisfies <span style="color: #6f42c1;">energy additivity</span> while maintaining broad applicability.</p>
          </div>
     </div>
