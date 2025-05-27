@@ -55,7 +55,7 @@
       "startDate": "",
       "endDate": "",
       "score": "",
-      "courses": [""]
+      "courses": ""
     },
     {
       "institution": "University of Campinas (UNICAMP)",
@@ -66,7 +66,7 @@
       "startDate": "",
       "endDate": "",
       "score": "",
-      "courses": [""]
+      "courses": ""
     },
     {
       "institution": "University of São Paulo (USP)",
@@ -201,7 +201,7 @@
     },
     {
       "language": "Spanish",
-      "fluency": "Basics",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
