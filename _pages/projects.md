@@ -94,14 +94,14 @@ to develop strategies to control energy flow in quantum systems and novel device
 
 <div class="row">
     <!-- Text column (left) -->
-    <div class="col-sm-8">
+    <div class="col-sm-7">
         <div class="text-justify">
-            <p>I am deeply interested in the fundamental aspects of quantum thermodynamics, particularly in establishing general quantum counterparts of classical thermodynamic quantities such as work, heat, and entropy. Current definitions are typically limited to specific scenarios constrained by weak-coupling and Markovian assumptions—while thermodynamically relevant, these restrictions limit their applicability to more general cases.
-            </p>
+            <p>I am deeply interested in the fundamental aspects of quantum thermodynamics, particularly in establishing general quantum counterparts of classical thermodynamic quantities such as work, heat, and entropy. Current definitions are typically limited to specific scenarios constrained by weak-coupling and Markovian assumptions—while thermodynamically relevant, these restrictions limit their applicability to more general cases.</p>
+            <p>To address this, we propose a universal definition of internal energy applicable to arbitrary quantum systems, including strongly coupled and fully autonomous scenarios. Remarkably, by starting from an isolated system, this approach enables the identification of time-dependent local operators (interpreted as <span style="color: #6f42c1;">Local Effective Hamiltonians</span>) whose expectation values sum to the total internal energy. This formulation naturally satisfies <span style="color: #6f42c1;">energy additivity</span> while maintaining broad applicability.</p>
          </div>
     </div>
         <!-- Image column (right) -->
-    <div class="col-sm-4">
+    <div class="col-sm-5">
         {% include figure.liquid 
            path="assets/img/energyAdd.png" 
            class="img-fluid rounded z-depth-1 custom-img-size" 
@@ -110,8 +110,6 @@ to develop strategies to control energy flow in quantum systems and novel device
     </div>
 </div>
 
-<div class="text-justify">
-To address this, we propose a universal definition of internal energy applicable to arbitrary quantum systems, including strongly coupled and fully autonomous scenarios. Remarkably, by starting from an isolated system, this approach enables the identification of time-dependent local operators (interpreted as <span style="color: #6f42c1;">Local Effective Hamiltonians</span>) whose expectation values sum to the total internal energy. This formulation naturally satisfies <span style="color: #6f42c1;">energy additivity</span> while maintaining broad applicability.
-</div>
+
 
 
