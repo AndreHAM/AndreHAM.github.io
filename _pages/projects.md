@@ -63,7 +63,9 @@ horizontal: false
     </div>
     <!-- Text column (right) -->
     <div class="col-sm-9">
-        <p>My research systematically explores QTD parameters to develop novel architectures, with particular focus on <span style="color: #6f42c1;">quantum thermal transistors (QTTs)</span> and <span style="color: #6f42c1;">quantum batteries (QBs)</span>. A key objective involves optimizing their operational performance, including developing strategies to mitigate intrinsic QB discharge processes caused by environmental effects and enhancing heat flow amplification in QTTs. I am particularly interested in advancing the practical implementation of such devices beyond proof-of-principle demonstrations, especially within circuit quantum electrodynamics (cQED) platforms.</p>
+        <div class="text-justify">
+            <p>My research systematically explores QTD parameters to develop novel architectures, with particular focus on <span style="color: #6f42c1;">quantum thermal transistors (QTTs)</span> and <span style="color: #6f42c1;">quantum batteries (QBs)</span>. A key objective involves optimizing their operational performance, including developing strategies to mitigate intrinsic QB discharge processes caused by environmental effects and enhancing heat flow amplification in QTTs. I am particularly interested in advancing the practical implementation of such devices beyond proof-of-principle demonstrations, especially within circuit quantum electrodynamics (cQED) platforms.</p>
+        </div>
     </div>
 </div>
 
