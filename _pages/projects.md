@@ -14,10 +14,11 @@ horizontal: false
 <div class="row">
     <!-- Text column (left) -->
     <div class="col-sm-8">
-        <p>Modern breakthroughs in quantum information theory and thermodynamics, combined with advances in nanoscale fabrication and quantum control, are driving the next wave of quantum technologies 2.0. These next-generation devices exploit quantum phenomena to revolutionize computing, communication, sensing, and simulation—raising crucial question: Do quantum effects play any role in thermodynamics? If so, can we use it?
-        This challenge has given rise to quantum thermodynamics, where we explore how quantum principles can enhance energy control in quantum counterparts of thermal devices. At the nanoscale, managing heat flows—thermotronics—mirrors electronics, enabling thermal logic and energy-efficient computing. Understanding these quantum-thermodynamic processes is key to optimizing energy use and minimizing waste heat.
-            My research sits at this intersection, developing strategies to control energy in quantum thermodynamic systems.
-        </p>
+        <div class="text-justify">
+            <p>Modern breakthroughs in <span style="color: #6f42c1;">quantum information theory</span> and <span style="color: #6f42c1;">thermodynamics</span>, combined with advances in nanoscale fabrication and quantum control, are driving the next wave of <span style="color: #6f42c1;">Quantum Technologies 2.0</span>. These next-generation devices exploit quantum phenomena to revolutionize computing, communication, sensing, and simulation—raising crucial question: Do quantum effects play any role in thermodynamics? If so, can we use it?
+        This challenge has given rise to <span style="color: #6f42c1;">quantum thermodynamics</span>, providing the tools to explore how quantum principles can enhance energy control in quantum counterparts of thermal devices.
+            </p>
+         </div>
     </div>
         <!-- Image column (right) -->
     <div class="col-sm-4">
@@ -29,6 +30,15 @@ horizontal: false
     </div>
 </div>
 
+<div class="text-justify">
+    At the nanoscale, managing heat flows—thermotronics—mirrors electronics, enabling thermal logic and energy-efficient computing. Understanding these quantum-thermodynamic processes is key to optimizing energy use and minimizing waste heat.
+    My research sits at the intersection of
+         ● Quantum Thermodynamics
+         ● Open Quantum Systems
+         ● Quantum Information
+         ● Quantum Thermotronics
+    to develop strategies to control energy flow in quantum systems, and novel devices.
+</div>
 
 <h2><span style="color: #6f42c1;">Quantum thermal devices</span></h2>
 
