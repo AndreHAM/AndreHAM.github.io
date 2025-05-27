@@ -29,16 +29,14 @@ horizontal: false
         <div class="caption">Research direction</div>
     </div>
 </div>
-
-<div class="text-justify">
-    At the nanoscale, managing heat flows—thermotronics—mirrors electronics, enabling thermal logic and energy-efficient computing. Understanding these quantum-thermodynamic processes is key to optimizing energy use and minimizing waste heat.
+    At the nanoscale, managing heat flows—<span style="color: #6f42c1;">thermotronics</span>—mirrors electronics, enabling thermal logic and energy-efficient computing. Understanding these quantum-thermodynamic processes is key to optimizing energy use and minimizing waste heat.
     My research sits at the intersection of
          ● Quantum Thermodynamics
          ● Open Quantum Systems
          ● Quantum Information
          ● Quantum Thermotronics
-    to develop strategies to control energy flow in quantum systems, and novel devices.
-</div>
+    to develop strategies to control energy flow in quantum systems and novel devices.
+
 
 <h2><span style="color: #6f42c1;">Quantum thermal devices</span></h2>
 
