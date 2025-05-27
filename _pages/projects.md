@@ -40,11 +40,11 @@ horizontal: false
            path="assets/img/protocol.png" 
            class="img-fluid rounded custom-img-size" 
            alt="Quantum devices" %}
-        <div class="caption">Quantum devices</div>
+        <div class="caption">Two-weak measurement protocol</div>
     </div>
     <!-- Text column (right) -->
     <div class="col-sm-8">
-        <p>My research systematically explores QTD parameters to develop novel architectures, with particular focus on quantum thermal transistors (QTTs) and quantum batteries (QBs). A key objective involves optimizing their operational performance, including developing strategies to mitigate intrinsic QB discharge processes caused by environmental effects.</p>
+        <p>My research systematically explores QTD parameters to develop novel architectures, with particular focus on quantum thermal transistors (QTTs) and quantum batteries (QBs). A key objective involves optimizing their operational performance, including developing strategies to mitigate intrinsic QB discharge processes caused by environmental effects and enhancing heat flow amplification in QTTs.</p>
     </div>
 </div>
 
@@ -57,9 +57,12 @@ horizontal: false
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/QBattery.png" class="img-fluid rounded custom-img-size" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/transistor.png" class="img-fluid rounded custom-img-size" %}
+    </div>
 </div>
 <div class="caption">
-    Quantum devices
+    Quantum thermal devices: quantum batteries and quantum thermal transistor
 </div>
 
 
